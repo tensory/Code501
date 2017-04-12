@@ -1,0 +1,21 @@
+1. Towers of Hanoi	https://en.wikipedia.org/wiki/Tower_of_Hanoi
+
+2. Stacks and Queue Q2: well-formed parentheses
+Given a string, write a program to examine whether the pairs and the orders of parentheses are well-formed\ balanced:
+"[()]{}{[()()]()}" => true
+"[(])" => false
+
+3. Strings Q2: Implement run length encoding
+https://en.wikipedia.org/wiki/Run-length_encoding
+
+4. Test palindromicity of strings.
+Given,
+andna => true
+ana => true
+nn => true
+tgh =>false
+
+5. Implement Stack with Queue.
+
+6. Have an api method in your stack class that returns the Max Integer Value in it.
+
